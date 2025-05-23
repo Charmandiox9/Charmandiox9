@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey, I'm Daniel!
 
-<!--
-**Charmandiox9/Charmandiox9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/-Daniel%20Durán-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-durán-garcía-814821242/)](https://www.linkedin.com/in/daniel-durán-garcía-814821242/)
+[![Gmail Badge](https://img.shields.io/badge/-daniel.duran@example.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:didurangarcia@gmail.com)
 
-Here are some ideas to get you started:
+- 🎓 Estudiante de Ingeniería en Tecnologías de la Información — Coquimbo, Chile  
+- 💻 Tech stack: `.java`, `.cpp`, `.py`, `.css`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Github Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Charmandiox9&theme=dracula)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charmandiox9&layout=compact)
