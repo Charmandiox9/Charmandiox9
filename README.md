@@ -1,7 +1,7 @@
 ## Hey, I'm Daniel!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Daniel%20Durán-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-durán-garcía-814821242/)](https://www.linkedin.com/in/daniel-durán-garcía-814821242/)
-[![Gmail Badge](https://img.shields.io/badge/-daniel.duran@example.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:didurangarcia@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-didurangarcia-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:didurangarcia@gmail.com)
 
 - 🎓 Information Technology Engineering Student — Coquimbo, Chile
 - 💻 Tech stack: `.java`, `.cpp`, `.py`, `.css`
