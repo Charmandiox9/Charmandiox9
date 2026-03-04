@@ -52,10 +52,10 @@ I'm an IT Engineering student focused on **backend development**, with hands-on 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charmandiox9&theme=dracula&hide_border=true&include_all_commits=true" width="48%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Charmandiox9&theme=dracula&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Charmandiox9&theme=dracula&hide_border=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charmandiox9&theme=dracula&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charmandiox9&theme=dracula&hide_border=true&layout=compact" width="40%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Charmandiox9&theme=dracula&hide_border=true&layout=compact" width="40%"/>
 </p>
