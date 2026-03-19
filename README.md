@@ -11,6 +11,9 @@
   <a href="https://twitch.tv/Charmandiox9">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
+  <a href="https://danielduran.engineer">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -25,7 +28,6 @@ containerized environments, and clean code principles such as **SOLID**.
 - 🌱 Currently learning: NestJS, Next.js, Software Design & Architecture
 - 🎮 Outside tech: gaming, music & TV series
 
-![Personal Page](https://danielduran.engineer)
 ---
 
 ## Tech Stack
