@@ -25,6 +25,7 @@ containerized environments, and clean code principles such as **SOLID**.
 - 🌱 Currently learning: NestJS, Next.js, Software Design & Architecture
 - 🎮 Outside tech: gaming, music & TV series
 
+![Personal Page](https://danielduran.engineer)
 ---
 
 ## Tech Stack
