@@ -14,7 +14,7 @@
   <a href="https://twitch.tv/Charmandiox9">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/charmandiox9">
+  <a href="https://discord.com/users/700182705547116595">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
