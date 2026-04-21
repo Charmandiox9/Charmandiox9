@@ -23,7 +23,7 @@
 
 ## About Me
 
-I'm an IT Engineering student focused on **fullstack development**, with hands-on experience 
+I'm an IT Engineering student focused on **backend development**, with hands-on experience 
 in object-oriented languages, REST & GraphQL APIs, relational/non-relational databases, 
 containerized environments, and clean code principles such as **SOLID**.
 
