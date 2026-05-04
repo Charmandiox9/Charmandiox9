@@ -27,7 +27,7 @@ I'm an IT Engineering student focused on **backend development**, with hands-on 
 in object-oriented languages, REST & GraphQL APIs, relational/non-relational databases, 
 containerized environments, and clean code principles such as **SOLID**.
 
-- 🎯 Looking for opportunities to contribute to real-world backend or full-stack projects
+- 🎯 Looking for opportunities to contribute to real-world backend or full-stack projects.
 - 🌱 Currently learning: NestJS, Next.js, Software Design & Architecture
 - 🎮 Outside tech: gaming, music & TV series
 
