@@ -17,6 +17,8 @@
     <img src="https://img.shields.io/badge/charmandiox9-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
+![Logo](assets/logo.svg)
+
 ---
 
 ## About Me
