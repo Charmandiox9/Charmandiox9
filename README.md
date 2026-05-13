@@ -1,37 +1,25 @@
-<h1 align="center">Daniel Durán García</h1>
-<h3 align="center">Information Technology Engineering Student · Backend Developer</h3>
-
 <p align="center">
-  <a href="https://danielduran.engineer">
-    <img src="https://img.shields.io/badge/🌐%20Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-durán-garcía-814821242/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:didurangarcia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitch.tv/Charmandiox9">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-  </a>
-    <img src="https://img.shields.io/badge/charmandiox9-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="assets/banner.svg"/>
 </p>
 
-![Logo](assets/logo.svg)
+<p align="center">
+  <i>Como el Mukade que atraviesa lo imposible...</i>
+  <i>cada línea de código es un paso hacia el más allá.</i>
+</p>
 
----
+![Separator](assets/separator.svg)
 
 ## About Me
 
 I'm an IT Engineering student focused on **backend development**, with hands-on experience 
-in object-oriented languages, REST & GraphQL APIs, relational/non-relational databases, 
+in object-oriented languages, REST and GraphQL API development, relational/non-relational databases, 
 containerized environments, and clean code principles such as **SOLID**.
 
 - 🎯 Looking for opportunities to contribute to real-world backend or full-stack projects.
 - 🌱 Currently learning: NestJS, Next.js, Software Design & Architecture
-- 🎮 Outside tech: gaming, music & TV series
+- 🎮 Outside of tech: gaming, music & TV series
 
----
+![Separator](assets/separator.svg)
 
 ## Tech Stack
 
@@ -75,10 +63,47 @@ containerized environments, and clean code principles such as **SOLID**.
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-0052CC?style=for-the-badge&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge&logoColor=white)
 
----
+![Separator](assets/separator.svg)
+
+## Projects
+
+| 📋 | Proyecto | Descripción | Stack |
+|:--:| :--- | :--- | :--- |
+| 📚️ | **PROJEIC** | Plataforma de centralización de proyectos, con soporte a metodologías e integración de GitHub Actions | `NestJS` · `Next.js` · `Nginx` |
+| 🔬 | **MediSystem** | Sistema de gestión de encuestas clínicas de salud sexual, enfocadas en el tamizaje de VPH. | `NestJS` · `Next.js` · `GraphQL` |
+| 🎵 | **KornBeat** | Aplicación Web de streaming de música. | `Node.js` · `React` · `Microservicios` |
+| 🌿 | **Guayacan-Project** | Ecosistema e-commerce containerizado. Arquitectura híbrida PostgreSQL + MongoDB. | `Node.js` · `React` · `Docker` |
+| 💡 | **Smart-Lighting IoT** | Sistema de iluminación inteligente controlado por red local. | `HTML` · `IoT` · `MCU` |
+
+![Separator](assets/separator.svg)
 
 ## GitHub Stats
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Charmandiox9&background=05030d&border=E05A7A&ring=E05A7A&fire=FF6B8A&currStreakLabel=F5C5D0&sideLabels=9EA8B5&dates=9EA8B5&stroke=1e1025)](https://git.io/streak-stats)
+  
+<br>
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Charmandiox9&bg_color=05030d&color=E05A7A&line=C0394F&point=F5C5D0&area=true&hide_border=false&border_color=E05A7A)](https://github.com/Marton1123)
+</div>
+
+![Separator](assets/separator.svg)
+
+## Contact
+
+If you're interested in talking about programming, software development, data structures, or simply gaming — feel free to reach out.
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charmandiox9&theme=dracula&hide_border=true" width="60%"/>
+  <a href="https://danielduran.engineer">
+    <img src="https://img.shields.io/badge/🌐%20Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-durán-garcía-814821242/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:didurangarcia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitch.tv/Charmandiox9">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  </a>
+    <img src="https://img.shields.io/badge/charmandiox9-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
