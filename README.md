@@ -84,7 +84,7 @@ containerized environments, and clean code principles such as **SOLID**.
   
 <br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Charmandiox9&bg_color=05030d&color=E05A7A&line=C0394F&point=F5C5D0&area=true&hide_border=false&border_color=E05A7A)](https://github.com/Marton1123)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Charmandiox9&bg_color=05030d&color=E05A7A&line=C0394F&point=F5C5D0&area=true&hide_border=false&border_color=E05A7A)](https://github.com/Charmandiox9)
 </div>
 
 ![Separator](assets/separator.svg)
