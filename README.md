@@ -80,7 +80,7 @@ containerized environments, and clean code principles such as **SOLID**.
 ## GitHub Stats
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Charmandiox9&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Charmandiox9&background=05030d&border=E05A7A&ring=E05A7A&fire=FF6B8A&currStreakLabel=F5C5D0&sideLabels=9EA8B5&dates=9EA8B5&stroke=1e1025)](https://git.io/streak-stats)
   
 <br>
 
