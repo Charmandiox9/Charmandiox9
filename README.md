@@ -93,7 +93,7 @@ containerized environments, and clean code principles such as **SOLID**.
 
 If you're interested in talking about programming, software development, data structures, or simply gaming — feel free to reach out.
 <p align="center">
-  <a href="https://danielduran.engineer">
+  <a href="https://portfolio.danielduran.engineer">
     <img src="https://img.shields.io/badge/🌐%20Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/daniel-durán-garcía-814821242/">
