@@ -90,35 +90,60 @@ I work with **REST and GraphQL**, relational and NoSQL databases, and modern web
 
 ![Section divider](assets/separator.svg)
 
+
 ## GitHub analytics
 
 <div align="center">
 
-<a href="https://github.com/Charmandiox9">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Charmandiox9&amp;theme=radical" alt="GitHub contribution overview" width="98%" />
-</a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Charmandiox9&theme=radical"
+    width="100%"
+    alt="GitHub profile summary"
+  />
 
-<a href="https://github.com/Charmandiox9?tab=repositories">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Charmandiox9&amp;theme=radical" alt="Repositories by language" width="48%" />
-</a>
-<a href="https://github.com/Charmandiox9?tab=repositories">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Charmandiox9&amp;theme=radical" alt="Languages by commits" width="48%" />
-</a>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Charmandiox9&theme=radical"
+          width="100%"
+          alt="Top languages by repository"
+        />
+      </td>
+      <td width="50%" align="center">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Charmandiox9&theme=radical"
+          width="100%"
+          alt="Top languages by commit"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Charmandiox9&theme=radical"
+          width="100%"
+          alt="GitHub statistics"
+        />
+      </td>
+      <td width="50%" align="center">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Charmandiox9&theme=radical&utcOffset=-3"
+          width="100%"
+          alt="Commit activity"
+        />
+      </td>
+    </tr>
+  </table>
 
-<a href="https://github.com/Charmandiox9">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Charmandiox9&amp;theme=radical" alt="GitHub account statistics" width="48%" />
-</a>
-<a href="https://github.com/Charmandiox9">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Charmandiox9&amp;theme=radical&amp;utcOffset=-3" alt="Commit activity by time of day (UTC-3)" width="48%" />
-</a>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Charmandiox9&amp;background=05030D&amp;border=E05A7A&amp;ring=E05A7A&amp;fire=FF6B8A&amp;currStreakLabel=F5C5D0&amp;sideLabels=9EA8B5&amp;dates=9EA8B5&amp;stroke=1E1025" alt="GitHub contribution streak" />
-</a>
-
-<p><a href="https://github.com/Charmandiox9?tab=overview">View my GitHub contribution calendar →</a></p>
+  <img
+    src="https://streak-stats.demolab.com?user=Charmandiox9&background=05030d&border=E05A7A&ring=E05A7A&fire=FF6B8A&currStreakLabel=F5C5D0&sideLabels=9EA8B5&dates=9EA8B5&stroke=1e1025"
+    width="100%"
+    alt="GitHub contribution streak"
+  />
 
 </div>
+
 
 <sub>Dynamic cards are provided by third-party services and may be temporarily unavailable or cached. Language statistics reflect repository activity, not skill level.</sub>
 
